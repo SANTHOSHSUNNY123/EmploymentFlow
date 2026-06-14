@@ -14,10 +14,19 @@ User can  login using :
  username
  password
 
+<<<<<<< HEAD
 Authentication is validated before acces is granted
+=======
+Authentication is validated before acces is granted.
+>>>>>>> feature/registration
 
 
 
 
+ HEAD
 --feature/login-v2.
 adding new login feature 
+--feature/Registration
+
+ Registration feature added 
+ feature/registration
