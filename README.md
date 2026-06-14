@@ -15,3 +15,10 @@ User can  login using :
  password
 
 Authentication is validated before acces is granted.
+
+
+
+
+--feature/Registration
+
+ Registration feature added 
